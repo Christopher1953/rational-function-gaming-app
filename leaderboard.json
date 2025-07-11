@@ -1,0 +1,17 @@
+{
+  "Chris": {
+    "total_score": 100,
+    "games_played": 1,
+    "best_score": 100,
+    "max_level": 1,
+    "last_played": "2025-07-10T15:55:34.577171",
+    "game_scores": [
+      {
+        "score": 100,
+        "level": 1,
+        "mode": "timed_sprint",
+        "date": "2025-07-10T15:55:34.577181"
+      }
+    ]
+  }
+}
