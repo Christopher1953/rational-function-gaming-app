@@ -1,1 +1,0 @@
-# Data package for rational function gaming app
