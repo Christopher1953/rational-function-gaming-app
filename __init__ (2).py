@@ -1,1 +1,0 @@
-# Game modes package for rational function gaming app
